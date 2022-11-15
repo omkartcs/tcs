@@ -21,5 +21,6 @@ public static void main(String[] args) throws Throwable {
 	//s.selectByVisibleText("15");
 	//s.selectByIndex(14);
 	s.selectByValue("15");
+	System.out.println("Successfully edited");
 }
 }
